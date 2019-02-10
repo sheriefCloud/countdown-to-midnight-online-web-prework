@@ -7,5 +7,5 @@ def countdown(number)
   while counter >=0
     puts message
     number -=
-  end
+
 end
